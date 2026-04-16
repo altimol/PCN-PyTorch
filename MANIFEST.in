@@ -1,5 +1,9 @@
-recursive-include pcn_pytorch *.sh
-recursive-include pcn_pytorch *.txt
-recursive-include pcn_pytorch *.yaml
-recursive-include pcn_pytorch *.pth
+recursive-include pcn_pytorch/extensions *.cu
+recursive-include pcn_pytorch/extensions *.cpp
+recursive-include pcn_pytorch/extensions *.h
+recursive-include pcn_pytorch/extensions *.cuh
+recursive-include pcn_pytorch/extensions *.sh
+recursive-include pcn_pytorch/extensions *.txt
+recursive-include pcn_pytorch/extensions *.yaml
+recursive-include pcn_pytorch/extensions *.pth
 include README.md
