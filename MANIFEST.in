@@ -1,4 +1,5 @@
 recursive-include dctr *.sh
 recursive-include dctr *.txt
 recursive-include dctr *.yaml
+recursive-include dctr *.pth
 include README.md
