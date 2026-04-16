@@ -1,5 +1,5 @@
-recursive-include dctr *.sh
-recursive-include dctr *.txt
-recursive-include dctr *.yaml
-recursive-include dctr *.pth
+recursive-include pcn_pytorch *.sh
+recursive-include pcn_pytorch *.txt
+recursive-include pcn_pytorch *.yaml
+recursive-include pcn_pytorch *.pth
 include README.md
