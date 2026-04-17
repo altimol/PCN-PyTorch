@@ -5,5 +5,5 @@ recursive-include pcn_pytorch *.cuh
 recursive-include pcn_pytorch *.sh
 recursive-include pcn_pytorch *.txt
 recursive-include pcn_pytorch *.yaml
-recursive-include pcn_pytorch*.pth
+recursive-include pcn_pytorch *.pth
 include README.md
